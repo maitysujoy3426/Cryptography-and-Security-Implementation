@@ -1,13 +1,3 @@
-/*
-To compile and run this AES-128 ECB C program on WSL Ubuntu:
-
-1. Compile:
-   gcc -o aes aes.c
-
-2. Run:
-   ./aes
-*/
-
 #include <stdio.h>
 #include <stdint.h>
 #include <string.h>
@@ -209,3 +199,4 @@ int main(){
 
     return 0;
 }
+
